@@ -59,7 +59,7 @@ body {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   width: 45px;
-  height: 5px;
+  height: 2px;
   background-color: #ffffff;
   border-radius: 10px;
 }
